@@ -1,0 +1,1 @@
+{"quantity": 10, "price": 180, "y_pr": 2006, "pr": "ALCATEL2000", "model": "JKW-801"}{"quantity": 20, "price": 140, "y_pr": 2005, "pr": "ALCATEL2000", "model": "JKW-800"}
